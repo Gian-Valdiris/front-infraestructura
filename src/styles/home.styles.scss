@@ -1,0 +1,15 @@
+.carousel_home{
+  background-color: #f8f8f8;
+  min-height: 200px;
+  .container_images{
+    border: 1px solid #000;
+    .ant-image{
+      background-color: #f8f8f8;
+    }
+    .ant-image-img{
+      margin: 10px;
+      margin-left: 20px;
+      object-fit: cover;
+    }
+  }
+}

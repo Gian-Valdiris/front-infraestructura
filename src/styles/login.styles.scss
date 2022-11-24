@@ -1,0 +1,22 @@
+
+.login_page{
+  width: 100%;
+  max-height: 100vh;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  .title_login{
+    text-align: center;
+  }
+  div{
+    height: 500px;
+    width: 600px;
+  }
+  .input_login{
+    margin-top: 20px;
+    width: 100%;
+  }
+
+}
